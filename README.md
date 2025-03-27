@@ -7,7 +7,7 @@ A machine learning project comparing Logistic Regression, SVM, Random Forest, KN
 - Analysis of model performance on an imbalanced dataset.
 
 ## Repository Structure
-- `credit_approval_analysis.py`: Main Python script for data processing, model training, and evaluation.
+- `credit_approval_analysis.ipynb`: Main Python script for data processing, model training, and evaluation.
 - `Credit.csv`: Credit Dataset.
 - `README.md`: This documentation.
 
@@ -41,4 +41,4 @@ A machine learning project comparing Logistic Regression, SVM, Random Forest, KN
 2. **Dependencies**: numpy, pandas, scikit-learn, matplotlib, keras, tensorflow
 3. 3. Run the script:
 ```bash
-python credit_approval_analysis.py
+python credit_approval_analysis.ipynb
