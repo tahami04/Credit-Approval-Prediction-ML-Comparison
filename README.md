@@ -8,7 +8,7 @@ A machine learning project comparing Logistic Regression, SVM, Random Forest, KN
 
 ## Repository Structure
 - `credit_approval_analysis.py`: Main Python script for data processing, model training, and evaluation.
-- `Credit.csv`: Dataset (not included here; replace with your dataset).
+- `Credit.csv`: Credit Dataset.
 - `README.md`: This documentation.
 
 ## Code Overview
